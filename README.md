@@ -215,6 +215,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [visual-storyteller](./plugins/visual-storyteller)
 - [whimsy-injector](./plugins/whimsy-injector)
 - [claude-bionify](./plugins/claude-bionify)
+- [struq](https://github.com/struqapp/struq-design) - Design skill plugin for marketing sites: `/struq <brief>` plans the direction, type, palette and GSAP/Lenis motion into one STRUQ.md, then builds from admitted blocks and checks the page for the AI look.
 
 ### Development Engineering
 - [claude-sounds](https://github.com/culminationAI/claude-sounds)
